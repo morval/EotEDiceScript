@@ -141,7 +141,7 @@ function rollAbility(diceQty){
 }
 
 function rollProficiency(diceQty){
-	//Yellow "Ability" die (d12)
+	//Yellow "Proficiency" die (d12)
 	//1 Blank
 	//2 Triumph
 	//3 Success
@@ -292,7 +292,7 @@ function rollSetBack(diceQty){
 }
 
 function rollDifficulty(diceQty){
-	//Purple "Ability" die (d8)
+	//Purple "Difficulty" die (d8)
 	//1 Blank
 	//2 Failure
 	//3 Threat
